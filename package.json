@@ -1,0 +1,19 @@
+{
+  "name": "dropzone",
+  "version": "1.0.0",
+  "description": "Dropzone is an Application that is built on firebase for distributing Advertising Flyers. A live demo is  [here](https://dropzone-7eae5.firebaseapp.com). The problem it solves is that clients of marketing agencies need to know where their flyers were delivered to know if they have reached their target audience. There is an android app that is used by the person delivering the flyers, all they need to do when using it is enable the flyer they are droping and tap the floating action button where the left a flyer(s). The application will then keep track of how many flyers were delivered and where, which is later compiled into a report to be given to the client. The apk for installing the android application can be downladed from [here](https://raw.githubusercontent.com/mosaic141688/dropzone-mbile/master/app/build/outputs/apk/app-debug.apk)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaic141688/dropzone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosaic141688/dropzone/issues"
+  },
+  "homepage": "https://github.com/mosaic141688/dropzone#readme"
+}
