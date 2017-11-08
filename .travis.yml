@@ -1,0 +1,14 @@
+#
+language: node_js
+# requiring the node version to be 8
+node_js:
+  - "8"
+
+
+# add cache to 'node_modules' for speeding up builds
+cache:
+  directories:
+    - "node_modules"
+
+before_script:
+  - npm install
